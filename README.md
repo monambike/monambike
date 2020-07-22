@@ -7,7 +7,7 @@
 
 ### Projects
 Projetos que eu consegui hostear no próprio GitHub (I was able to use GitHub to host these projects).
-- [Meu Projeto (My Project)](https://monambike.github.io/virtualrestaurant_web)
+- [Virtual Restaurant](https://monambike.github.io/virtualrestaurant_web)
 
 ### Other projects:
 These projects couldn't have been hosted because they were made using php. Even being harder, I would appreciate if you take a bit of your time to look them too.
