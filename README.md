@@ -1,7 +1,7 @@
 # MEU PERFIL
 *(última atualização: 22/07/2020)*
 
-## CHOOSE LANGUAGE
+## IDIOMA (LANGUAGE)
 | [PT-BR](#PT-BR) | [EN-US](#EN-US) |
 |-|-|
 
