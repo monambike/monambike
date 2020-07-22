@@ -11,6 +11,7 @@
 
 [Meu Site Pessoal.](https://monambike.github.io)
 
+### PROJETOS
 #### Hosteados no GitHub:
 Projetos que eu consegui hospedar no próprio GitHub.
 - [Virtual Restaurant](https://monambike.github.io/virtualrestaurant_web)
@@ -26,6 +27,7 @@ Esses projetos eu não consegui hospedar usando o GitHub pois eles foram feitos 
 
 [My Personal Site.](https://monambike.github.io)
 
+### PROJECTS
 #### Hosted on GitHub:
 Projects that I was able to host using GitHub.
 - [Virtual Restaurant](https://monambike.github.io/virtualrestaurant_web)
