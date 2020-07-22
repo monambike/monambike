@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[My Personal Site](monambike.github.io)
+[My Personal Site](www.monambike.github.io)
 
-[My Project](monambike.github.io/virtualrestaurant_web)
+[My Project](www.monambike.github.io/virtualrestaurant_web)
 
 Other projects:
 These projects couldn't have been hosted because they were made using php.
