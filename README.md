@@ -1,6 +1,10 @@
 # MEU PERFIL
 *(última atualização: 22/07/2020)*
 
+## CHOOSE LANGUAGE
+| [PT-BR](#PT-BR) | [EN-US](#EN-US) |
+|-|-|
+
 ## PT-BR
 
 ### Bem Vindo ao meu perfil do GitHub! :octocat:
