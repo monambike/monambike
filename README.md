@@ -9,7 +9,7 @@
 
 ### Bem Vindo ao meu perfil do GitHub! :octocat:
 
-[Meu Site Pessoal.](https://monambike.github.io)
+Veja o meu[Site Pessoal](https://monambike.github.io).
 
 ### PROJETOS
 #### Hosteados no GitHub:
@@ -25,7 +25,7 @@ Esses projetos eu não consegui hospedar usando o GitHub pois eles foram feitos 
 
 ### Welcome to my profile on GitHub! :octocat:
 
-[My Personal Site.](https://monambike.github.io)
+See my [Personal Site.](https://monambike.github.io).
 
 ### PROJECTS
 #### Hosted on GitHub:
