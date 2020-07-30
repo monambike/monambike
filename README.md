@@ -2,7 +2,7 @@
 *(última atualização: 22/07/2020)*
 
 ## IDIOMA (LANGUAGE)
-| [PT-BR](#PT-BR) | [EN-US](#EN-US) |
+| [PT-BR](#PT-BR) | [EN-US](README_EN.md) |
 |-|-|
 
 ## PT-BR
