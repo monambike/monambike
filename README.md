@@ -1,5 +1,5 @@
 # MEU PERFIL
-*(última atualização: 22/07/2020)*
+*(última atualização: 08/08/2020)*
 
 ## IDIOMA (LANGUAGE)
 | [PT-BR](#PT-BR) | [EN-US](#EN-US) |
