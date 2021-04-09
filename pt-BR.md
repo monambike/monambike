@@ -6,7 +6,8 @@
 
 Veja o meu [Site Pessoal](https://monambike.github.io).
 
-### PROJETOS
+## PROJETOS
+### SITES
 #### Hosteados no GitHub:
 Projetos que eu consegui hospedar no próprio GitHub.
 - [Virtual Restaurant](https://monambike.github.io/virtualrestaurant_web)
