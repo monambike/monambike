@@ -1,4 +1,4 @@
-[:arrow_backward: Voltar](https://github.com/monambike)
+[:arrow_backward: BACK](https://github.com/monambike)
 
 ## EN-US
 
