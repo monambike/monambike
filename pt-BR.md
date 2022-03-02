@@ -1,7 +1,5 @@
 [:arrow_backward: VOLTAR](https://github.com/monambike)
 
-## PT-BR
+## Bem-vindo ao meu perfil do GitHub!
 
-### Bem Vindo ao meu perfil do GitHub! :octocat:
-
-Veja o meu [Site Pessoal](https://monambike.github.io).
+Por favor, dê uma olhada no meu [site pessoal](https://monambike.github.io).
