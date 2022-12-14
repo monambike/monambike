@@ -5,11 +5,11 @@ I'm Vinícius Gabriel, a developer working in the information technology industr
 
 Please take a look at my [personal website 🌐](https://monambike.github.io)!
 
-## Eu
+## I Love
 
-🗃️ Love keep things organized and ready;
+🗃️ To keep things organized and ready;
 
-⏫ Love shortcuts, things get pretty less boring and repetitive and get much more easier;
+⏫ Using a lot of shortcuts, things get pretty less boring and repetitive and get much more easier;
 
 ## Coisas que eu Gosto
 
