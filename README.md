@@ -11,7 +11,7 @@ Please take a look at my [personal website 🌐](https://monambike.github.io)!
 
 ⏫ Using a lot of shortcuts, things get pretty less boring and repetitive and get much more easier;
 
-## Coisas que eu Gosto
+## Hobbies
 
 🎮 I love playing games
 
