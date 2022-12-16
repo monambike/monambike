@@ -33,17 +33,14 @@ Please take a look at my [personal website 🌐](https://monambike.github.io)!
 
 ## I work with
 
-C# - .NET - SQL Server - .NET MAUI
-HTML5 - CSS3 - Blazor
-
-
-
+C# - SQL Server - Visual Studio
 <p>
   <img height="40" src="images/csharp-original.svg"/>
   <img height="40" src="images/microsoftsqlserver-plain.svg" />
   <img height="40" src="images/visualstudio-plain.svg" />
 </p>
 
+HTML5 - CSS3 - Sass - Visual Studio Code
 <p>
   <img height="40" src="images/html5-original.svg" />
   <img height="40" src="images/css3-original.svg"/>
