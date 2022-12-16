@@ -29,7 +29,7 @@ Please take a look at my [personal website 🌐](https://monambike.github.io)!
 
 🐱 Catto;
 
-🦐 And Shrimps 😋.
+🦐 And shrimps 😋.
 
 ## I work with
 
