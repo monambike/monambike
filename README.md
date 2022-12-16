@@ -19,7 +19,17 @@ Please take a look at my [personal website 🌐](https://monambike.github.io)!
 
 ## I work with
 
-C#, SQL Server
-HTML5, CSS3
+C# - .NET - SQL Server - .NET MAUI
+HTML5 - CSS3 - Blazor
 
-.NET
+
+
+<img height="40" src="images/csharp-original.svg"/>
+
+<img height="40" src="images/microsoftsqlserver-plain.svg" />
+
+<img height="40" src="images/html5-original.svg" />
+
+<img height="40" src="images/css3-original.svg"/>
+
+<img height="40" src="images/sass-original.svg"/>
