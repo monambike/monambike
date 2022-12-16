@@ -19,11 +19,13 @@ Please take a look at my [personal website 🌐](https://monambike.github.io)!
 
 🤖 Automation, why I'm gonna do something that can be done exactly the same by somebody else? Beep-Boop!
 
-## Hobbies
+## I Love..
 
-🎮 I love playing games
+🎮 Playing games;
 
-🎨 I love drawing
+🎨 Drawing and design;
+
+🐱 Catto.
 
 ## I work with
 
