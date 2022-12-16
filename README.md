@@ -13,9 +13,11 @@ Please take a look at my [personal website 🌐](https://monambike.github.io)!
 
 ## I Love
 
-🗃️ To keep things organized and ready;
+🗃️ To keep things organized, so when I need them, I'm ready 😎 just need to use it;
 
-⏫ Using a lot of shortcuts, things get pretty less boring and repetitive and get much more easier;
+⏫ Using a lot of shortcuts, things get pretty less slow, boring and massive, everything gets much more easier;
+
+🤖 Automation, why I'm gonna do something that can be done exactly the same by somebody else? Beep-Boop!
 
 ## Hobbies
 
