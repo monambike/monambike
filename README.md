@@ -1,6 +1,8 @@
 # Hello there! 👋 Welcome to my GitHub profile!
 
-<img src="images/pikachu-hello.gif">
+<p align="center">
+  <img src="images/pikachu-hello.gif">
+</p>
 
 
 
