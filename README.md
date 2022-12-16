@@ -25,7 +25,11 @@ Please take a look at my [personal website 🌐](https://monambike.github.io)!
 
 🎨 Drawing and design;
 
-🐱 Catto.
+💬 Stickers;
+
+🐱 Catto;
+
+🦐 And Shrimps 😋.
 
 ## I work with
 
