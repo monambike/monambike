@@ -35,15 +35,15 @@ Please take a look at my [personal website 🌐](https://monambike.github.io)!
 
 C# - SQL Server - Visual Studio
 <p>
-  <img height="40" src="images/csharp-original.svg"/>
-  <img height="40" src="images/icons8-microsoft-sql-server.svg" />
-  <img height="40" src="images/visualstudio-plain.svg" />
+  <img height="40" src="images/csharp.svg"/>
+  <img height="40" src="images/microsoft-sql-server.svg" />
+  <img height="40" src="images/visual-studio.svg" />
 </p>
 
 HTML5 - CSS3 - Sass - Visual Studio Code
 <p>
-  <img height="40" src="images/html5-original.svg" />
-  <img height="40" src="images/css3-original.svg"/>
-  <img height="40" src="images/sass-original.svg"/>
-  <img height="40" src="images/vscode-original.svg"/>
+  <img height="40" src="images/html5.svg" />
+  <img height="40" src="images/css3.svg"/>
+  <img height="40" src="images/sass.svg"/>
+  <img height="40" src="images/vscode.svg"/>
 </p>
