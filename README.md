@@ -45,5 +45,5 @@ HTML5 - CSS3 - Sass - Visual Studio Code
   <img height="40" src="images/html5.svg" />
   <img height="40" src="images/css3.svg"/>
   <img height="40" src="images/sass.svg"/>
-  <img height="40" src="images/vscode.svg"/>
+  <img height="40" src="images/vs-code.svg"/>
 </p>
