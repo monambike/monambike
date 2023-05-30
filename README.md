@@ -33,12 +33,12 @@ Please take a look at my [personal website 🌐](https://monambike.github.io)!
 
 ## I work with
 
-C# - SQL Server - Visual Studio
+Unity - C# - Visual Studio - SQL Server
 <p>
-  <img height="40" src="images/csharp.svg"/>
   <img height="40" src="images/unity.svg"/>
-  <img height="40" src="images/microsoft-sql-server.svg" />
+  <img height="40" src="images/csharp.svg"/>
   <img height="40" src="images/visual-studio.svg" />
+  <img height="40" src="images/microsoft-sql-server.svg" />
 </p>
 
 HTML5 - CSS3 - Sass - Visual Studio Code
