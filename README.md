@@ -32,16 +32,17 @@ Please take a look at my [personal website 🌐](https://monambike.github.io)!
 
 Unity - C# - Visual Studio - SQL Server
 <p>
-  <img height="40" src="images/unity.svg"/>
-  <img height="40" src="images/csharp.svg"/>
-  <img height="40" src="images/visual-studio.svg" />
-  <img height="40" src="images/microsoft-sql-server.svg" />
+  <img height="40" src="images/tools/unity.svg"/>
+  <img height="40" src="images/tools/csharp.svg"/>
+  <img height="40" src="images/tools/c-plus-plus.svg"/>
+  <img height="40" src="images/tools/visual-studio.svg" />
+  <img height="40" src="images/tools/microsoft-sql-server.svg" />
 </p>
 
 HTML5 - CSS3 - Sass - Visual Studio Code
 <p>
-  <img height="40" src="images/html5.svg" />
-  <img height="40" src="images/css3.svg"/>
-  <img height="40" src="images/sass.svg"/>
-  <img height="40" src="images/vs-code.svg"/>
+  <img height="40" src="images/tools/html5.svg" />
+  <img height="40" src="images/tools/css3.svg"/>
+  <img height="40" src="images/tools/sass.svg"/>
+  <img height="40" src="images/tools/vs-code.svg"/>
 </p>
