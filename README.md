@@ -34,6 +34,7 @@ Unity - C# - Visual Studio - SQL Server
 <p>
   <img height="40" src="images/tools/unity.svg"/>
   <img height="40" src="images/tools/csharp.svg"/>
+  <img height="40" src="images/tools/c-plus-plus.svg"/>
   <img height="40" src="images/tools/visual-studio.svg" />
   <img height="40" src="images/tools/microsoft-sql-server.svg" />
 </p>
