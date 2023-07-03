@@ -49,4 +49,4 @@ HTML5 - CSS3 - Sass - Visual Studio Code
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monambike&hide=contribs&show_icons=true&theme=transparent\&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monambike\&layout=compact&theme=transparent&exclude_repo=ouroweb-icons-storage,project-hanabi-web,educational-and-research-code-snippets,kwijisho-discord-bot-legacy,diversao-inclusiva,doce-do-bom-mobile) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monambike\&layout=compact&theme=transparent&exclude_repo=ouroweb-icons-storage,project-hanabi-web,educational-and-research-code-snippets,kwijisho-discord-bot-legacy,diversao-inclusiva,doce-do-bom-mobile,clock-in-tracker)
