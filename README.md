@@ -46,3 +46,7 @@ HTML5 - CSS3 - Sass - Visual Studio Code
   <img height="40" src="images/tools/sass.svg"/>
   <img height="40" src="images/tools/vs-code.svg"/>
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monambike&hide=contribs&show_icons=true&theme=transparent\&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monambike\&layout=compact&theme=transparent)  
