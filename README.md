@@ -48,6 +48,6 @@ HTML5 - CSS3 - Sass - Visual Studio Code
 </p>
 
 <div>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=monambike&hide=contribs&show_icons=true&theme=transparent>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=monambike&hide=contribs&show_icons=true&theme=transparent">
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monambike&layout=compact&theme=transparent&exclude_repo=ouroweb-icons-storage,project-hanabi-web,educational-and-research-code-snippets,kwijisho-discord-bot-legacy,diversao-inclusiva,doce-do-bom-mobile,clock-in-tracker">
 </div>
