@@ -6,7 +6,7 @@
 
 I'm Vinícius Gabriel, a developer working in the information technology industry.
 
-Please take a look at my [personal website 🌐](https://monambike.github.io)!
+Please take a look at my [personal website🌐](https://monambike.com)!
 
 ## I Love
 
