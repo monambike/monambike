@@ -8,6 +8,8 @@ I'm Vinícius Gabriel, and I'm a developer aiming to always do my best and my co
 
 Please take a look at my [personal website](https://monambike.com)! 🌐
 
+You can also check this application I'm working now: [github.com/monambike/kwijisho-discord-bot](https://github.com/monambike/kwijisho-discord-bot).
+
 # I Also Love
 
 🗃️ To keep things organized, so when I need them, I'm ready 😎 just need to use it;
