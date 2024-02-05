@@ -10,7 +10,7 @@ Please take a look at my [personal website](https://monambike.com)! 🌐
 
 You can also check this application I'm working now: [github.com/monambike/kwijisho-discord-bot](https://github.com/monambike/kwijisho-discord-bot).
 
-# I Also Love
+# I Love
 
 🗃️ To keep things organized, so when I need them, I'm ready 😎 just need to use it;
 
@@ -18,17 +18,9 @@ You can also check this application I'm working now: [github.com/monambike/kwiji
 
 🤖 Automation, why I'm gonna do something that can be done exactly the same by somebody else? Beep-Boop!
 
-# I Love..
+# I Also Love..
 
-🎮 Playing games;
-
-🎨 Drawing and design;
-
-💬 Stickers;
-
-🐱 Cattos;
-
-🦐 And shrimps 😋.
+🎮 Playing games; 🎨 Drawing and design; 💫 Talking With Stickers; 🐱 Cattos; 🦐 And shrimps 😋.
 
 # Some Tools
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -42,3 +34,9 @@ You can also check this application I'm working now: [github.com/monambike/kwiji
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+# Status
+
+<div>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=monambike&hide=contribs&show_icons=true&theme=transparent">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monambike&layout=compact&theme=transparent&exclude_repo=ouroweb-icons-storage,project-hanabi-web,educational-and-research-code-snippets,kwijisho-discord-bot-legacy,diversao-inclusiva,doce-do-bom-mobile,clock-in-tracker">
+</div>
