@@ -41,6 +41,6 @@ You can check the apps I'm hosting here [hextrixtools.com/monambike](https://het
 # Status
 
 <div>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=monambike&hide=contribs&show_icons=true&theme=transparent">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monambike&layout=compact&theme=transparent&exclude_repo=ouroweb-icons-storage,project-hanabi-web,educational-and-research-code-snippets,kwijisho-discord-bot-legacy,diversao-inclusiva,doce-do-bom-mobile,clock-in-tracker">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=monambike&hide=contribs&show_icons=true&theme=transparent&rank_icon=github">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monambike&layout=compact&theme=transparent&exclude_repo=ouroweb-icons-storage,project-hanabi-web,educational-and-research-code-snippets,kwijisho-discord-bot-legacy,diversao-inclusiva,doce-do-bom-mobile,clock-in-tracker,monambike-blog">
 </div>
