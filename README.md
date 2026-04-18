@@ -6,7 +6,7 @@
 
 I'm Vinícius Gabriel, and I'm a developer aiming to always do my best and my code and applications better!
 
-Please take a look at my [personal website](https://monambike.com)! 🌐
+Please take a look at my [personal website](https://monambike.github.io/)! 🌐
 
 You can also check this application I'm working now: [github.com/monambike/kwijisho-discord-bot](https://github.com/monambike/kwijisho-discord-bot).
 
