@@ -22,7 +22,7 @@ You can also check this application I'm working now: [github.com/monambike/kwiji
 
 # I Also Love..
 
-🎮 Playing games; 🎨 Drawing and design; 💫 Talking With Stickers; 🐱 Cattos; 🦐 And shrimps 😋.
+🎮 Playing games; 🎨 Drawing and design; 💫 Talking With Stickers; 🐱 Cats; 🦐 Shrimps 😋.
 
 # Some Tools
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
